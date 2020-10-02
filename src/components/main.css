@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+ }
+
+ nav{
+   background-color: #ECECEC;
+ }
+ .nav-brand{
+   font-family: cursive;
+   font-size: 25px;
+ }
+
+ .createquiz{
+   max-width: 500px;
+ }
+
+ .saved-quetions{
+   max-width: 700px;
+ }
